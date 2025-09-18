@@ -1,0 +1,1 @@
+# smolagents for MCP and agentic tool calling
